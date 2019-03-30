@@ -1,10 +1,10 @@
 #!/bin/sh
 #############################################################################################################
-# NAME........... portaladmin
+# NAME........... redis_admin.sh
 # Project ....... Redis instace management
 # AUTHOR......... Govind (govindkailas@gmail.com)
 # DATE........... Fri Mar 10 11:10:39 2017
-# PURPOSE........ New portaladmin script created for Redis, this will help in start,stop and bounce of
+# PURPOSE........ New admin script created for Redis, this will help in start,stop and bounce of
 #        ........ redis and sentinel.
 # HISTORY ....... Created the initial draft
 #
